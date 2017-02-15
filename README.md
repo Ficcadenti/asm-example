@@ -20,9 +20,9 @@ Raffaele.
     <b>CiaoMondo</b>: 
     <p>
       Come suggerisce il nome, il primo 'ciao mondo' in asm.<br>
-       - nasm -fwin32 ciaomondo.asm
-       - gcc ciaomondo.obj -o ciaomondo
-       - ./ciaomondo
+       - nasm -fwin32 ciaomondo.asm<br>
+       - gcc ciaomondo.obj -o ciaomondo<br>
+       - ./ciaomondo<br>
     </p>
   </li>
   <br>
