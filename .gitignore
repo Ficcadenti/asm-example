@@ -1,4 +1,10 @@
-/.metadata/
-/RemoteSystemsTempFiles/
-*.obj
+# Created by https://www.toptal.com/developers/gitignore/api/assembler
+# Edit at https://www.toptal.com/developers/gitignore?templates=assembler
+
+### Assembler ###
 *.exe
+*.o
+*.obj
+*.bc
+
+# End of https://www.toptal.com/developers/gitignore/api/assembler
